@@ -25,6 +25,15 @@ h1{
   width: 400px;
 }
 
+.resultSection{
+  margin: 100px 10px 100px 10px;
+  width: 400px;
+  font-weight: bolder;
+  font-size: 200px;
+  letter-spacing: 3px;
+  margin-bottom: 10px
+}
+
 .inputs{
   width: inherit;
   display: flex;
