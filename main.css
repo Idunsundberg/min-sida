@@ -40,9 +40,10 @@ input {
 }
 
 .resultSection{
-  height: 300px
+  height: 500px
   display: flex:
   justify-content: center;
   align-items: center;
-  font-size: 20px
+  font-size: 100px
+  font-weight: bolder;
 }
